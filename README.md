@@ -12,9 +12,6 @@ smoking BBQ), and forever embarrassing my family with endless shenanigans.
 
 - :computer: I’m currently learning R and other languages/software that can help modernize my data analysis and teaching methods.
 
-- Want to contact me?
-<br> :e-mail: stdecker@umass.edu
-<br> Twitter: [@decker_st](https://twitter.com/decker_st)
 
 <!---
 stdecker/stdecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
