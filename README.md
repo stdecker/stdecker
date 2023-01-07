@@ -4,7 +4,7 @@ including the production of ROS/RNS. I mostly work with high-resolution respirom
 ([see my CV](https://github.com/stdecker/DeckerCV)). Beyond the 40-100 hours I'm working in research, I enjoy outdoor activities, :baseball: (former D1 athlete), cooking (especially
 smoking BBQ), and forever embarrassing my family with endless shenanigans.
 
-- :house: Houston, TX :airplane: Salt Lake City, UT :airplane: Western Massachusetts
+- :house: Houston, TX :airplane: Salt Lake City, UT :airplane: Western Massachusetts :airplane: Salt Lake City, UT
 
 - :man_scientist: Incoming postdoc at the University of Utah
 
