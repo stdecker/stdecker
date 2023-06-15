@@ -6,7 +6,7 @@ smoking BBQ), and forever embarrassing my family with endless shenanigans.
 
 - :house: Houston, TX :airplane: Salt Lake City, UT :airplane: Western Massachusetts :airplane: Salt Lake City, UT
 
-- :man_scientist: Incoming postdoc at the University of Utah
+- :man_scientist: Postdoc at the University of Utah
 
 - :school: PhD at UMass Amherst, MS & BS at Stephen F. Austin State University
 
